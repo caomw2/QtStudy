@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Test5_4A">
+    <file>Resources/help.png</file>
+  </qresource>
+</RCC>

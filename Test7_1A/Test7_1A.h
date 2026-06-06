@@ -1,0 +1,21 @@
+#pragma once
+
+#include <QtWidgets/QMainWindow>
+#include "ui_Test7_1A.h"
+
+class Test7_1A : public QMainWindow
+{
+	Q_OBJECT
+
+public:
+	Test7_1A(QWidget *parent = Q_NULLPTR);
+
+
+	private slots:
+
+	int OnBtnLogin();
+
+
+private:
+	Ui::Test7_1AClass ui;
+};

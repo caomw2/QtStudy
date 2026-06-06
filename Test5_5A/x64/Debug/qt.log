@@ -1,0 +1,3 @@
+Test5_5A.h|"D:\cmw\CppProjs\QtStudy\Test5_5A\Test5_5A.h" -o ".\GeneratedFiles\Debug\moc_Test5_5A.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtCore" "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtGui" "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtANGLE" "-IC:\Qt\Qt5.8.0\5.8\msvc2015_64\include\QtWidgets" -DUNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+Test5_5A.qrc|"D:\cmw\CppProjs\QtStudy\Test5_5A\Test5_5A.qrc" -o ".\GeneratedFiles\qrc_Test5_5A.cpp" --name Test5_5A
+Test5_5A.ui|"D:\cmw\CppProjs\QtStudy\Test5_5A\Test5_5A.ui" -o ".\GeneratedFiles\ui_Test5_5A.h"
